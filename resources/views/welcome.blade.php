@@ -4,7 +4,7 @@
    <div class="project-info">
       <h4>Project Title</h4>
       <p>Company Name, location</p>
-      <a href="" class="btn btn-dark">Apply Now</a>
+      <a href="/project-details" class="btn btn-dark">Apply Now</a>
    </div>
    <div class="app_count card p-3 text-center bg-light">
      <p>Total no. of applcations</p>

@@ -44,6 +44,10 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::view('/create-project', 'create-project')->name('create-project');
+Route::view('/project-details', 'project-details')->name('project-details');
+Route::view('/docs', 'docs');
+Route::view('/apply-project', 'apply-project');
 /* Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home'); */
